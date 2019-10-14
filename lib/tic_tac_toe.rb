@@ -7,5 +7,5 @@ def display_board(board)
 end
 
 WIN_COMBINATIONS = [
-  
+
 ]
